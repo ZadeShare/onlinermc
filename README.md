@@ -35,3 +35,12 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 License
 This project is licensed under the MIT License
+
+# What should you do in your aternos server 
+You need to have a plugin supporter in your server first
+## Download those plugins :
+ViaBackwards-4.9.2
+ViaVersion
+ViaRewind-3.0.6
+ViaVersion-4.7.0
+
