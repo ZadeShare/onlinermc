@@ -44,3 +44,7 @@ ViaVersion
 ViaRewind-3.0.6
 ViaVersion-4.7.0
 
+# Best Host Provider 
+You can use our host providing to make Onliner MC 24/7 , visit https://panelzs.lunes.host and make a account 
+after go to store , you can buy credits to host a VPS also you can use a Reedem Code who is : ONLINERMC to get 400 credit so you can get the other amount for only 4$ to rent a VPS
+
